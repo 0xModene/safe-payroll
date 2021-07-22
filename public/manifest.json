@@ -1,6 +1,6 @@
 {
-  "short_name": "Safe Airdrop",
-  "name": "CSV Airdrop",
+  "short_name": "IC-Payroll",
+  "name": "Index Coop Payroll",
   "description": "Upload your CSV transfer file to send arbitrarily many tokens of various amounts to a list of recipients.",
   "iconPath": "logo.svg",
   "start_url": ".",
